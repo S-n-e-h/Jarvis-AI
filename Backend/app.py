@@ -8,7 +8,7 @@ from pathlib import Path
 from pywhatkit import search, playonyt
 
 # Constants
-GROQ_API_KEY = "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"
+GROQ_API_KEY = ""
 DATA_PATH = Path("data/ChatLog.json")
 FRONTEND_PATH = Path("frontend")
 
