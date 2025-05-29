@@ -5,7 +5,7 @@ from groq import Groq
 
 Username = "Shark"
 Assistantname = "Jarvis"
-GroqAPIKey = "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"
+GroqAPIKey = ""
 
 client = Groq(api_key=GroqAPIKey)
 
