@@ -7,9 +7,9 @@ from pathlib import Path
 # Constants
 USERNAME = "Shark"
 ASSISTANT_NAME = "Jarvis"
-GROQ_API_KEY = "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"
+GROQ_API_KEY = ""
 DATA_PATH = Path("../Data/ChatLog.json")
-SERPAPI_API_KEY = "4e815eb31c988c1987696c1b979eeea3243fede45772781101c5b866ff40cd74"  # Replace with your SerpApi key
+SERPAPI_API_KEY = ""  # Replace with your SerpApi key
 
 # Ensure the Data folder and ChatLog.json exist
 DATA_PATH.parent.mkdir(parents=True, exist_ok=True)
