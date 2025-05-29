@@ -18,7 +18,7 @@ except ImportError:
 useragent = 'Mozilla/5.0 (Windows NT 10.0; Win64 x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36'
 
 
-client = Groq(api_key='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')
+client = Groq(api_key='')
 
 SystemChatBot = [{"role": "system", "content": "Hello I am Shark, You're a content writer. You have to write letter"}]
 messages = []
